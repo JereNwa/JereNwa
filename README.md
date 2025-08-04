@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hey there! 👋
+🔭 I’m currently working on learn-to-code-in-html. (See below to contribute!)
 
+💻 I can code in HTML, CSS and a bit of Python.
+
+🌱 I’m currently learning JavaScript, C++ and Swift.
+
+🤔 I’m looking for help with learn-to-code-in-html.
 <!--
 **JereNwa/JereNwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
