@@ -1,7 +1,7 @@
 ## Hey there! 👋
 🔭 I’m currently working on learn-to-code-in-html. (See below to contribute!)
 
-💻 I can code in HTML, CSS and a bit of Python.
+💻 I love coding in HTML and CSS!
 
 🌱 I’m currently learning JavaScript, C++ and Swift.
 
