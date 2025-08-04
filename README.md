@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning JavaScript, C++ and Swift.
 
-🤔 I’m looking for help with learn-to-code-in-html.
+🤔 I’m currently looking for help with learn-to-code-in-html.
 <!--
 **JereNwa/JereNwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
