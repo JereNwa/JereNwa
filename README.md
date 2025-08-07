@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, expe
 Programming languages:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height=50 width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height=50 width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=50 width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=50 width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height=50 width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=50 width=50/><br/>
-(I am more confident in HTML and CSS than all of the others, in which I still have a lot to learn)
+(I am more confident in HTML and CSS than the others, in which I still have a lot to learn)
           
           
 
