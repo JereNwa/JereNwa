@@ -10,10 +10,17 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, expe
 - 🌱 Currently learning new programming languages.
 - 👯 Looking to collaborate on my documentation on how to code in HTML (and CSS)
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies, Programming Languages and Tools
+Languages:
 
-- Languages: HTML, CSS (plus minimal JavaScript, C++ and Swift)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height=50 width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height=50 width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=50 width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=50 width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height=50 width=50/>
+          
+          
 
+Tools:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height=50 width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=50 width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height=50 width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=50 width=50/>
+          
 ## 📈 GitHub Stats
 
 ![JereNwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=JereNwa&show_icons=true&theme=default)
