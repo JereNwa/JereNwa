@@ -24,7 +24,8 @@ Tools:
 
 ## 📈 GitHub Stats
 
-![JereNwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=JereNwa&show_icons=true&theme=default)
+![JereNwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=JereNwa&show_icons=true&theme=default) 
+![JereNwa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JereNwa&show_icons=true&theme=default) 
 
 <!--
 **JereNwa/JereNwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
