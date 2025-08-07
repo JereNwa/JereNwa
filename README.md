@@ -1,11 +1,21 @@
-## Hey there! 👋
-🔭 I’m currently working on learn-to-code-in-html. (See below to contribute!)
+# Hi there, I'm JereNwa 👋
 
-💻 I love coding in HTML and CSS!
+Welcome to my GitHub profile! Here you'll find a collection of my projects, experiments, and contributions.
 
-🌱 I’m currently learning JavaScript, C++ and Swift.
+## 🚀 About Me
 
-🤔 I’m currently looking for help with learn-to-code-in-html.
+- 💻 Fellow web developer and tech enthusiast
+- 🌱 Currently learning new programming languages.
+- 👯 Looking to collaborate on my documentation on how to code in HTML (and CSS)
+
+## 🛠️ Technologies & Tools
+
+- Languages: HTML, CSS (plus minimal JavaScript, C++ and Swift)
+
+## 📈 GitHub Stats
+
+![JereNwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=JereNwa&show_icons=true&theme=default)
+
 <!--
 **JereNwa/JereNwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
