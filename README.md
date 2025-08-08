@@ -2,7 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=system-ui&pause=1000&color=000000&width=435&lines=Your+average+young+developer+%F0%9F%92%BB)
 
-Welcome to my GitHub profile! Here you'll find a collection of my projects, experiments, and contributions.
+Welcome to my GitHub profile! :octocat:<br/>
+Here you'll find a collection of my projects, experiments, and contributions.
 
 ## 🚀 About Me
 
