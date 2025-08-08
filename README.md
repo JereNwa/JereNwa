@@ -21,7 +21,7 @@ Programming languages:
 
 Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height=50 width=50 alt="GitHub"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=50 width=50 alt="Figma"/>  <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" height=50 alt="Canva"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=50 width=50 alt="Visual Studio Code"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height=50 width=50 alt="GitHub"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=50 width=50 alt="Figma"/>  <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" height=50 alt="Canva"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=50 width=50 alt="Visual Studio Code"/>
 
 ## 📈 GitHub Stats
 
