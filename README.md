@@ -16,6 +16,7 @@ Here you'll find a collection of my projects, experiments, and contributions.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height=50 width=50 alt="HTML"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" height=50 width=50 alt="CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=50 width=50 alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height=50 width=50 alt="React/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=50 width=50 alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height=50 width=50 alt="Swift"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=50 width=50 alt="Python"/>
@@ -23,6 +24,7 @@ Here you'll find a collection of my projects, experiments, and contributions.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=50 width=50 alt="Figma"/>
 <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" height=50 alt="Canva"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=50 width=50 alt="Visual Studio Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" height=50 width=50 alt="Ionic"/>
 </p>
 (Most confident in HTML, CSS and JS.)
 
