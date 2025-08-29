@@ -16,7 +16,6 @@ Here you'll find a collection of my projects, experiments, and contributions.
 
 ### Currently learning:
 <img src="https://skills.syvixor.com/api/icons?i=cpp,swift,python" alt="C++, Swift and Python"/>
-C++, Swift, Python
 
 
 ## 📈 GitHub Stats
