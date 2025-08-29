@@ -12,7 +12,7 @@ Here you'll find a collection of my projects, experiments, and contributions.
 - 👯 Looking to collaborate on my documentation on how to code in HTML (and CSS)
 
 ## 🛠️ Some programming languages and tools I have used:
-<p><img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,cpp,swift,python,git,github,githubpages,visualstudiocode,figma,inkscape,reddit,canva,ionic"/></p>
+<p><img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,cpp,swift,python,git,github,githubpages,visualstudiocode,figma,inkscape,reddit,canva,ionic" alt="HTML, CSS, JavaScript, TypeScript, React, C++, Swift, Python, Git, GitHub, GitHub Pages, VS Code, Figma, Inkscape, Reddit, Canva and Ionic."/></p>
 (Note that I'm not very good at C++, Swift and Python.)
 
 
