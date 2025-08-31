@@ -5,6 +5,8 @@
 Welcome to my GitHub profile! :octocat:<br/>
 Here you'll find a collection of my projects, experiments, and contributions.
 
+![Snake SVG](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 ## 🚀 About Me
 
 - 💻 Fellow web developer and tech enthusiast
