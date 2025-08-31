@@ -23,7 +23,7 @@ Here you'll find a collection of my projects, experiments, and contributions.
 ### Currently learning:
 <img src="https://skills.syvixor.com/api/icons?i=cpp,swift,python" alt="C++, Swift and Python"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ui-monospace&pause=1000&color=767676&width=435&separator=%3C&lines=main()%3C%7B%3Cprintf(%22hello%2C+world%2Fn%22);%3C%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ui-monospace&pause=1000&color=767676&width=435&separator=%3C&lines=main(+)+%7B+++++++++printf(%22hello%2C+world%5Cn%22);+%7D)](https://git.io/typing-svg)
 
 ## 📈 GitHub Stats
 
