@@ -11,7 +11,6 @@ Welcome to my GitHub profile! :octocat:<br/>
 Here you'll find a collection of my projects, experiments, and contributions.
 
 
-
 ## 🚀 About Me
 
 - 💻 Fellow web developer and tech enthusiast
@@ -24,6 +23,7 @@ Here you'll find a collection of my projects, experiments, and contributions.
 ### Currently learning:
 <img src="https://skills.syvixor.com/api/icons?i=cpp,swift,python" alt="C++, Swift and Python"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ui-monospace&pause=1000&color=767676&width=435&separator=%3C&lines=main()%3C%7B%3Cprintf(%22hello%2C+world%2Fn%22);%3C%7D)](https://git.io/typing-svg)
 
 ## 📈 GitHub Stats
 
@@ -35,7 +35,6 @@ Here you'll find a collection of my projects, experiments, and contributions.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JereNwa" alt="Top languages">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ui-monospace&pause=1000&color=767676&width=435&separator=%3C&lines=main()%3C%7B%3Cprintf(%22hello%2C+world%2Fn%22);%3C%7D)](https://git.io/typing-svg)
 
 This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
 
