@@ -1,7 +1,6 @@
 # Hi there, I'm JereNwa 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Your+average+young+developer+%F0%9F%92%BB)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JereNwa/JereNwa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JereNwa/JereNwa/output/github-contribution-grid-snake.svg">
