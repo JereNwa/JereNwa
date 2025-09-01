@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=ui-monospace&pause=1000&color=767676&width=435&separator=%3C&lines=main(+)+%7B+++++++++printf(%22hello%2C+world%5Cn%22);+%7D)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=ui-monospace&pause=1000&color=767676&width=435&separator=%3C&lines=main(+)+%7B+++++++++printf(%22hello%2C+world%5Cn%22)%3Cconsole.log('hello%2C+world');%3Cprint('hello%2C+world');+%7D)
 # Hi there, I'm JereNwa 👋
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JereNwa/JereNwa/output/github-contribution-grid-snake-dark.svg">
