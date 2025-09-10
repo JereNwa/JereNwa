@@ -24,7 +24,7 @@ Here you'll find a collection of my projects, experiments, and contributions.
 
 
 ## 📈 GitHub Stats
-<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
+<p align="center"><img src="/github-metrics.svg" alt="My GitHub Metrics"></p>
 
 
 This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
