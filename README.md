@@ -13,8 +13,8 @@ Here you'll find a collection of my projects, experiments, and contributions.
 ## 🚀 About Me
 
 - 💻 Fellow web developer and tech enthusiast
-- 🌱 Currently learning new programming languages.
-- 👯 Not really looking to collaborate in anything yet...
+- 🌱 Currently learning new programming languages, and trying to learn more of the ones that I already know.
+- 👯 Don't have anything to collaborate with.
 
 ## 🛠️ Some programming languages and tools I have used:
 <p><img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,nextjs,tailwindcss,git,nodejs,npm,github,githubpages,githubactions,visualstudiocode,figma,inkscape,reddit,canva,ionic,vercel,obs" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git, Node.js, npm, GitHub, GitHub Pages, VS Code, Figma, Inkscape, Reddit, Canva, Ionic, Vercel and OBS."/></p>
