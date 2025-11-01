@@ -22,7 +22,7 @@ Here you'll find a collection of my projects, experiments, and contributions.
 - 👯 Don't have anything to collaborate with.
 
 ## 🛠️ Some programming languages and tools I have used:
-<p><img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,nextjs,tailwindcss,git,nodejs,npm,github,githubpages,githubactions,codeberg,visualstudiocode,figma,inkscape,reddit,canva,ionic,vercel,obs" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git, Node.js, npm, GitHub, GitHub Pages, GitHub Actions, Codeberg, VS Code, Figma, Inkscape, Reddit, Canva, Ionic, Vercel and OBS."/></p>
+<p><img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,nextjs,tailwindcss,git,nodejs,npm,github,githubpages,githubactions,codeberg,visualstudiocode,figma,inkscape,canva,ionic,vercel,obs" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git, Node.js, npm, GitHub, GitHub Pages, GitHub Actions, Codeberg, VS Code, Figma, Inkscape, Canva, Ionic, Vercel and OBS."/></p>
 
 ### Currently learning:
 <img src="https://skills.syvixor.com/api/icons?i=cpp,swift,python" alt="C++, Swift and Python"/>
