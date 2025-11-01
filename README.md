@@ -1,6 +1,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JereNwa)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/JereNwa)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@JereNwa)
+[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/JereNwa)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=ui-monospace&pause=1000&color=767676&width=435&separator=%3C&lines=printf('hello%2C+world%5Cn');%3Cconsole.log('hello%2C+world');%3Cprint('hello%2C+world'))
 # Hi there, I'm JereNwa 👋
