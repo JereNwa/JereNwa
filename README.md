@@ -36,6 +36,9 @@ Here you'll find a collection of my projects, experiments, and contributions.
 
 This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
 
+##  How to talk:
+Go to [https://github.com/JereNwa/JereNwa/discussions](https://github.com/JereNwa/JereNwa/discussions) and submit something there!
+
 <!--
 **JereNwa/JereNwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
