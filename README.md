@@ -29,6 +29,13 @@ Here you'll find a collection of my projects, experiments, and contributions.
 
 This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
 
+## My other accounts
+<p align="center">
+  <a href="https://github.com/JereNwa"><img src="https://skills.syvixor.com/api/icons?i=github" alt="GitHub account" title="GitHub"/></a>
+  <a href="https://codeberg.org/JereNwa"><img src="https://skills.syvixor.com/api/icons?i=codeberg" alt="Codeberg account" title="Codeberg"/></a>
+  <a href="https://www.figma.com/@JereNwa"><img src="https://skills.syvixor.com/api/icons?i=figma" alt="Figma account" title="Figma"/></a>
+</p>
+
 <!--
 **JereNwa/JereNwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
