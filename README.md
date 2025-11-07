@@ -19,7 +19,7 @@ Here you'll find a collection of my projects, experiments, and contributions.
 
 - 💻 Fellow web developer and tech enthusiast
 - 🌱 Currently learning new programming languages, and trying to learn more of the ones that I already know.
-- 👯 If you want to talk, go to [https://github.com/JereNwa/JereNwa/discussions](https://github.com/JereNwa/JereNwa/discussions) and submit something there!
+- 👯 If you want to talk, go to [https://github.com/JereNwa/discussions/discussions](https://github.com/JereNwa/discussions/discussions) and submit something there!
 
 ## 🛠️ Some programming languages and tools I have used:
 <p><img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,nextjs,tailwindcss,git,nodejs,npm,github,githubpages,githubactions,codeberg,visualstudiocode,figma,inkscape,canva,ionic,vercel,obs" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git, Node.js, npm, GitHub, GitHub Pages, GitHub Actions, Codeberg, VS Code, Figma, Inkscape, Canva, Ionic, Vercel and OBS."/></p>
