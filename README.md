@@ -27,13 +27,13 @@ Here you'll find a collection of my projects, experiments, and contributions.
 ### Currently learning:
 <img src="https://skills.syvixor.com/api/icons?i=cpp,swift,python" alt="C++, Swift and Python"/>
 
+## Software I use:
+I use Affinity as my all-in-one editor and VS Code for coding.
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="/github-metrics.svg" alt="My GitHub Metrics">
 </p>
-
-## Software I use:
-I use Affinity as my all-in-one editor and VS Code for coding.
 
 ## 
 This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
