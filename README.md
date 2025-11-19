@@ -20,7 +20,12 @@ Here you'll find a collection of my projects, experiments, and contributions.
 
 - 💻 Fellow web developer and tech enthusiast
 - 🌱 Currently learning new programming languages, and trying to learn more of the ones that I already know.
-- 👯 If you want to talk, go to [https://github.com/JereNwa/chatroom/discussions](https://github.com/JereNwa/chatroom/discussions) and submit something there!
+- 👯 If you want to talk, go to [https://github.com/JereNwa/chatroom/discussions](https://github.com/JereNwa/chatroom/discussions) and submit something there!#
+
+<!--
+## Computer info
+I use a [insert computer here] with [insert gb of ram] GB of RAM and [storage] GB of storage, running [insert os here]
+-->
 
 ## 🛠️ Skillset
 
