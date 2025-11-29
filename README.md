@@ -4,6 +4,7 @@
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/JereNwa)
 [![Scratch](https://img.shields.io/badge/scratch-855cd6?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/jen6C "func().GetBadgeNameMD.badgename.var=badgeName=Scratch")
 [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/JereNwa)
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/User:JereNwa)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=ui-monospace&pause=1000&color=767676&width=435&separator=%3C&lines=printf('hello%2C+world%5Cn');%3Cconsole.log('hello%2C+world');%3Cprint('hello%2C+world'))
 
