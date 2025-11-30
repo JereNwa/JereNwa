@@ -3,7 +3,7 @@
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@JereNwa)
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/JereNwa)
 [![Codecademy Community](https://img.shields.io/badge/codecademy%20community-0F1226?style=for-the-badge&logo=codecademy&logoColor=white)](https://community.codecademy.com/u/72532ceb "func().GetBadgeNameMD.badgename.var=badgeName=Codecademy%20Community")
-[![Scratch](https://img.shields.io/badge/scratch-855cd6?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/jen6C "func().GetBadgeNameMD.badgename.var=badgeName=Scratch")
+[![Scratch](https://img.shields.io/badge/scratch-ffa500?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/jen6C "func().GetBadgeNameMD.badgename.var=badgeName=Scratch")
 [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/JereNwa)
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/User:JereNwa)
 [![Lichess](https://img.shields.io/badge/lichess-white?style=for-the-badge&logo=lichess&logoColor=black)](https://lichess.org/@/JereNwa "func().GetBadgeNameMD.badgename.var=badgeName=Lichess")
