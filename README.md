@@ -34,7 +34,7 @@ I use a [insert computer here] with [insert gb of ram] GB of RAM and [storage] G
 ## 🛠️ Skillset
 
 ### Programming languages and tools I regularly use:
-<p><img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,nextjs,tailwindcss,git,nodejs,npm" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git, Node.js, npm and Ionic."/></p>
+<p><img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,nextjs,tailwindcss,git,nodejs,npm,pnpm" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git, Node.js, npm and pnpm."/></p>
 
 ### Software I regularly use:
 <p><img src="https://skills.syvixor.com/api/icons?i=github,githubpages,githubactions,codeberg,visualstudiocode,figma,affinity,canva,vercel,obs" alt="GitHub, GitHub Pages, GitHub Actions, Codeberg, VS Code, Figma, Affinity, Vercel and OBS."/></p>
