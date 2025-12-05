@@ -26,10 +26,10 @@ Here you'll find a collection of my projects, experiments, and contributions.
 - 🌱 Currently learning new programming languages, and trying to learn more of the ones that I already know.
 - 🤝 If you want to talk, go to [https://github.com/JereNwa/chatroom/discussions](https://github.com/JereNwa/chatroom/discussions) and submit something there!
 
-<!--
+
 ## Computer info
-I use a [insert computer here] with [insert gb of ram] GB of RAM and [storage] GB of storage, running [insert os here]
--->
+I use a MacBook Air M4 with 16 GB of RAM and [256 GB of storage, running macOS Sequoia.
+
 
 ## 🛠️ Skillset
 
