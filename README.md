@@ -28,7 +28,7 @@ Here you'll find a collection of my projects, experiments, and contributions.
 
 
 ## Computer info
-I use a MacBook Air M4 with 16 GB of RAM and 256 GB of storage, running macOS Sequoia.
+I use a MacBook Air M4 with 16 GB of RAM and 256 GB of storage, running macOS Tahoe.
 
 
 ## 🛠️ Skillset
