@@ -22,7 +22,7 @@ Here you'll find a collection of my projects, experiments, and contributions.
 
 ## 🚀 About Me
 
-- 💻 Fellow web developer and tech enthusiast
+- 💻 Fellow web developer and tech enthusiast (and avid seeker of free Adobe replacements!)
 - 🌱 Currently learning new programming languages, and trying to learn more of the ones that I already know.
 - 🤝 If you want to talk, go to [https://github.com/JereNwa/chatroom/discussions](https://github.com/JereNwa/chatroom/discussions) and submit something there!
 
