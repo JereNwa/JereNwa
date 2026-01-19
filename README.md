@@ -37,13 +37,13 @@ I use a MacBook Air M4 with 16 GB of RAM and 256 GB of storage, running macOS Ta
 <p><img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,reactjs,nextjs,tailwindcss,git,nodejs,npm,pnpm" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git, Node.js, npm and pnpm."/></p>
 
 ### Software I regularly use:
-<p><img src="https://skills.syvixor.com/api/icons?i=github,githubpages,githubactions,codeberg,visualstudiocode,xcode,androidstudio,figma,affinity,canva,vercel,obs" alt="GitHub, GitHub Pages, GitHub Actions, Codeberg, VS Code, Xcode, Android Studio, Figma, Affinity, Vercel and OBS."/></p>
+<p><img src="https://skills.syvixor.com/api/icons?i=github,githubpages,githubactions,codeberg,visualstudiocode,xcode,androidstudio,figma,affinity,canva,firefox,vercel,obs" alt="GitHub, GitHub Pages, GitHub Actions, Codeberg, VS Code, Xcode, Android Studio, Figma, Affinity, Firefox, Vercel and OBS."/></p>
 
 ### Software and programming languages that I'm currently learning or want to use:
 <p><img src="https://skills.syvixor.com/api/icons?i=cpp,swift,python,blender,electron,expo" alt="C++, Swift, Python, Blender, Electon and Expo."/></p>
 
 ### Software and tools I've tried once/used to use:
-<p><img src="https://skills.syvixor.com/api/icons?i=gimp,inkscape,ionic" alt="GIMP, Inkscape and Ionic."/></p>
+<p><img src="https://skills.syvixor.com/api/icons?i=gimp,inkscape,ionic,chrome" alt="GIMP, Inkscape, Ionic and Chrome."/></p>
 
 ## 📈 GitHub Stats
 <p align="center">
