@@ -40,7 +40,7 @@ I use a MacBook Air M4 with 16 GB of RAM and 256 GB of storage, running macOS Ta
 <p><img src="https://skills.syvixor.com/api/icons?i=github,githubpages,githubactions,codeberg,visualstudiocode,xcode,androidstudio,figma,affinity,canva,firefox,vercel,obs" alt="GitHub, GitHub Pages, GitHub Actions, Codeberg, VS Code, Xcode, Android Studio, Figma, Affinity, Firefox, Vercel and OBS."/></p>
 
 ### Software and programming languages that I'm currently learning or want to use:
-<p><img src="https://skills.syvixor.com/api/icons?i=cpp,swift,python,blender,electron,expo" alt="C++, Swift, Python, Blender, Electon and Expo."/></p>
+<p><img src="https://skills.syvixor.com/api/icons?i=cpp,qtwidgets,swift,python,blender,electron,expo" alt="C++, Qt, Swift, Python, Blender, Electon and Expo."/></p>
 
 ### Software and tools I've tried once/used to use:
 <p><img src="https://skills.syvixor.com/api/icons?i=gimp,inkscape,ionic,chrome" alt="GIMP, Inkscape, Ionic and Chrome."/></p>
